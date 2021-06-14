@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DonemOdevi_191030050</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="borek">Çi Börek</string>
+    <string name="list">List</string>
+    <string name="canakkale">Çanakkale</string>
+    <string name="aboutMe">Mehraba adım furkan 21 yaşındayım bu sene dgs ile yazılım mühendisliğine geçmek istiyorum günlük hayatım yazılım geliştirme film izleme şeklinde geçiyor</string>
+</resources>
